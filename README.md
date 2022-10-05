@@ -8,9 +8,8 @@
 
 **Source de données:** [Organisation des Nations Unies pour l'alimentation et l'agriculture (FAO) - 2017](https://www.fao.org/faostat/fr/#data)
 
-*"La FAO est responsable de la collecte, de l'analyse et de la diffusion d'une grande variété de données statistiques sur l'alimentation, l'agriculture et la gestion durable des ressources naturelles. L'Organisation offre un accès gratuit et illimité à 22 bases de données majeures et produit des publications au contenu statistique clé couvrant différents sujets relevant du mandat de la FAO.
-
-Grâce à ces produits, la FAO veille à ce que des données de haute qualité et comparables au niveau international soient produites et rendues accessibles à tous les pays, contribuant ainsi à la création d'une base de connaissances exhaustive sur l'alimentation et l'agriculture."
+**"La FAO est responsable de la collecte, de l'analyse et de la diffusion d'une grande variété de données statistiques sur l'alimentation, l'agriculture et la gestion durable des ressources naturelles. L'Organisation offre un accès gratuit et illimité à 22 bases de données majeures et produit des publications au contenu statistique clé couvrant différents sujets relevant du mandat de la FAO.*
+*Grâce à ces produits, la FAO veille à ce que des données de haute qualité et comparables au niveau international soient produites et rendues accessibles à tous les pays, contribuant ainsi à la création d'une base de connaissances exhaustive sur l'alimentation et l'agriculture."*
 
 >FAOSTAT. (s. d.). Consulté le 2 août 2021, à l’adresse https://www.fao.org/faostat/fr/#data
 
